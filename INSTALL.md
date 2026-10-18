@@ -4,7 +4,7 @@
 
 ## ПК · Chrome / Edge / Brave
 
-1. Открой [релиз 0.3.24](https://github.com/Stervakim/Koma-Translate/releases/tag/v0.3.24), скачай **Koma-Translate-0.3.24-Chromium.zip** и распакуй.
+1. Открой [релиз 0.3.25](https://github.com/Stervakim/Koma-Translate/releases/tag/v0.3.25), скачай **Koma-Translate-0.3.25-Chromium.zip** и распакуй.
 2. Открой `chrome://extensions`, `edge://extensions` или `brave://extensions`. Включи **Режим разработчика**.
 3. Нажми **Загрузить распакованное** и выбери извлечённую папку **Koma-Translate**, в которой лежит `manifest.json`. Закрепи значок дерева.
 
@@ -12,7 +12,7 @@
 
 ## Телефон · Edge Canary на Android
 
-1. Скачай **Koma-Translate-0.3.24-Edge-Android.crx** из того же релиза.
+1. Скачай **Koma-Translate-0.3.25-Edge-Android.crx** из того же релиза.
 2. Открой параметры Edge Canary → **О Microsoft Edge**; если меню разработчика скрыто, несколько раз нажми на номер сборки, пока оно не включится.
 3. Вернись в параметры → **Параметры разработчика** → **Extension install by crx** → **Choose .crx file**. Выбери скачанный CRX, подтверди установку.
 

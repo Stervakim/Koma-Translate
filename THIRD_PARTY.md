@@ -6,6 +6,7 @@ Koma — независимая реализация. Код и фирменны
 | :--- | :--- |
 | Tesseract.js | [naptha/tesseract.js](https://github.com/naptha/tesseract.js), Apache-2.0 |
 | PaddleOCR PP-OCRv6 | [PaddlePaddle](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_rec_onnx/tree/50c7eacafc52fa7bcf4194e8cd08e46f8558504b), Apache-2.0 |
+| PP-OCRv6 Manga | [fumetodev](https://huggingface.co/fumetodev/PP-OCRv6_small_rec_manga_ONNX/tree/1ef01f78c59f6f66389c9722fd2d0ab761680ea9), Apache-2.0; японская модель, около 21 МБ, загружается отдельно |
 | ComicTextDetector | [dmMaze/comic-text-detector](https://github.com/dmMaze/comic-text-detector/tree/440b978563c71b758e31aaa315d100faba1efa2f), GPL-3.0; модель загружается отдельно, не включена в CRX |
 | Распространение / конверсия моделей | [ShinobuTranslator models-v0.8.3](https://github.com/DonutShinobu/ShinobuTranslator/releases/tag/models-v0.8.3); запись конверсии [efc90be](https://github.com/DonutShinobu/ShinobuTranslator/blob/efc90be822d69daaaffe33760090a21e968f66f8/THIRD_PARTY_NOTICES.md) |
 | LaMa | [advimman/lama](https://github.com/advimman/lama), Apache-2.0; [экспорт g-ronimo/lama](https://huggingface.co/g-ronimo/lama/tree/418036c6b541e526cdbb0bead1ec3a87dabede53) |
